@@ -1,0 +1,114 @@
+
+h2 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    /* or 175% */
+
+    letter-spacing: 0.05em;
+}
+
+h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 35px;
+    /* or 55% */
+
+    letter-spacing: 0.1em;
+}
+
+p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    /* or 175% */
+    letter-spacing: 0.05em;
+}
+
+.screen {
+    display: flex;
+    flex-direction: row;
+    width: 1920px;
+    height: 1213px;
+    justify-content:space-around;
+}
+
+.contact {
+    margin-bottom: 33px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-top: 72px;
+}
+
+img {
+    width: 729px;
+    height: 904px;
+    border-radius: 20px;
+    margin-top: 98px;
+}
+
+button {
+    width: 300px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: #d8f2b8;
+    font-size: 25px;
+    margin-top: 33px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    /* or 175% */
+    letter-spacing: 0.05em;
+}
+
+.input {
+    width: 715px;
+    height: 65px;
+    margin-bottom: 33px;   
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    /* or 175% */
+
+    letter-spacing: 0.05em;
+    background-color: #d8f2b8;
+}
+
+.select {
+    width: 715px;
+    height: 65px;
+    margin-bottom: 33px;   
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    /* or 175% */
+    letter-spacing: 0.05em;
+    background-color: #d8f2b8;
+}
+
+.textarea {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    /* or 175% */
+
+    letter-spacing: 0.05em;
+    background-color: #d8f2b8;
+}
